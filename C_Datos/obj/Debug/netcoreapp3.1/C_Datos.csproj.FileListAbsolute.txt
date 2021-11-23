@@ -1,0 +1,13 @@
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.deps.json
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.dll
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.pdb
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\bin\Debug\netcoreapp3.1\C_Entidad.dll
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\bin\Debug\netcoreapp3.1\C_Entidad.pdb
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.dll
+C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.pdb
